@@ -1,0 +1,23 @@
+{
+  "name": "webpix",
+  "version": "1.0.1",
+  "description": "Compress images to WebP or JPEG using sharp",
+  "main": "webpix.js",
+  "bin": {
+    "webpix": "webpix.js"
+  },
+  "keywords": [
+    "image",
+    "compress",
+    "webp",
+    "jpeg",
+    "sharp",
+    "cli"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "sharp": "^0.33.0"
+  }
+}
